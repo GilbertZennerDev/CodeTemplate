@@ -1,0 +1,3 @@
+def FUNCNAME(ARGS):
+	FUNCBODY
+
